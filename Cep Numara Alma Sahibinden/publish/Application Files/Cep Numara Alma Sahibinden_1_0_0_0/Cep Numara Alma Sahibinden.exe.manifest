@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="1.0.0.0" name="Cep Numara Alma Sahibinden.exe" publicKeyToken="29e3d78ab2c1951d" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Cep Numara Alma Sahibinden" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Cep Numara Alma Sahibinden.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet class="System.Security.PermissionSet" version="1" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Cep Numara Alma Sahibinden.exe" size="15360">
+      <assemblyIdentity name="Cep Numara Alma Sahibinden" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>yxno7aq/5iGsJCUvcfnir/QUgKY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=Internet\Huseyin" issuerKeyHash="44839e23228ae26cda28bff0dc20c4ba9b093b13" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>CRDSa7GynUaG4DJvZDerKmmJ0yA=</DigestValue></Reference></SignedInfo><SignatureValue>XKg1AbmmIXubgrVqSawKWxfex+uDbEPSwRruj38fzYUk0OQo3VbBaA/U10Eih++5w1SjTKufb0PKLLjoGoHb8msMtjc/LuH/XteYZkhGUFuW3aGD0XjC/VKxB45/x/zWxHntAc0dKrbFtpW7hAhVXg+8fcNe+Xt+4WM+JlqScmg=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>u60/Kgl+huFj/SINhHywU5v6Wi+vaePoCiwig3sSuw7Yc/mbqNPeJ6NnGJm3oKEYthn+XQZl2xOp75wpMNCMnbejl4e/xiZncvbmCVzICScoZYVqfE9lXuN3rd5sFMal2GpBCYvaTFVYS5I1IT9PEQ0iBUr2+YCN7m802P0lKr8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="20d389692aab37646f32e086469db2b16bd21009" Description="" Url=""><as:assemblyIdentity version="1.0.0.0" name="Cep Numara Alma Sahibinden.exe" publicKeyToken="29e3d78ab2c1951d" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Internet\Huseyin</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>ilfwyPNaZt61uCDBINdZVcXee54=</DigestValue></Reference></SignedInfo><SignatureValue>b5oWNMMB7Y5Y/isE159/0DxzRMn5afV6IOuTNzClOtpODaVbiAiRwAxeZVwkItYsND+/yzOQ5JPZKXH0e5BrZ5CzPKJIreQc1SueTlF4TlhC9NA9va8jzr1jN9b6xflzXxvjC8uc9oS5K5zeDcAZ8TMgjiWtcYP4loCZr22628Q=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>u60/Kgl+huFj/SINhHywU5v6Wi+vaePoCiwig3sSuw7Yc/mbqNPeJ6NnGJm3oKEYthn+XQZl2xOp75wpMNCMnbejl4e/xiZncvbmCVzICScoZYVqfE9lXuN3rd5sFMal2GpBCYvaTFVYS5I1IT9PEQ0iBUr2+YCN7m802P0lKr8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQcl1Y6D/UWb9PqOy2Wa5k3DANBgkqhkiG9w0BAQUFADArMSkwJwYDVQQDHiAASQBuAHQAZQByAG4AZQB0AFwASAB1AHMAZQB5AGkAbjAeFw0xNDA2MTkwOTIyNDVaFw0xNTA2MTkxNTIyNDVaMCsxKTAnBgNVBAMeIABJAG4AdABlAHIAbgBlAHQAXABIAHUAcwBlAHkAaQBuMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC7rT8qCX6G4WP9Ig2EfLBTm/paL69p4+gKLCKDexK7Dthz+Zuo094no2cYmbegoRi2Gf5dBmXbE6nvnCkw0Iydt6OXh7/GJmdy9uYJXMgJJyhlhWp8T2Ve43et3mwUxqXYakEJi9pMVVhLkjUhP08RDSIFSvb5gI3ubzTY/SUqvwIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAAENsHgQxwu6/QTkO8tovzPNaHpN72ydH836a0FZbRz0MyjwNhtbw7Epj7apvRFl3et9NsbEAZUjwyjFbJBjsjjexsOz9PtS0PJIkAZxiMikdz5vEI5WTEwT05H853A2e0YaK9j6Pq15VGXrO0sSO4VkuwLjde2ybrFvQ9VoI4g9</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

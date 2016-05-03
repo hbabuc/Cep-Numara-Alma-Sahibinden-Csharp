@@ -1,0 +1,21 @@
+C:\Users\Huseyin\AppData\Local\Temporary Projects\Cep Numara Alma Sahibinden\bin\Debug\Cep Numara Alma Sahibinden.exe
+C:\Users\Huseyin\AppData\Local\Temporary Projects\Cep Numara Alma Sahibinden\bin\Debug\Cep Numara Alma Sahibinden.pdb
+C:\Users\Huseyin\AppData\Local\Temporary Projects\Cep Numara Alma Sahibinden\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Huseyin\AppData\Local\Temporary Projects\Cep Numara Alma Sahibinden\obj\Debug\Cep_Numara_Alma_Sahibinden.Form1.resources
+C:\Users\Huseyin\AppData\Local\Temporary Projects\Cep Numara Alma Sahibinden\obj\Debug\Cep_Numara_Alma_Sahibinden.Properties.Resources.resources
+C:\Users\Huseyin\AppData\Local\Temporary Projects\Cep Numara Alma Sahibinden\obj\Debug\Cep Numara Alma Sahibinden.csproj.GenerateResource.Cache
+C:\Users\Huseyin\AppData\Local\Temporary Projects\Cep Numara Alma Sahibinden\obj\Debug\Cep Numara Alma Sahibinden.exe
+C:\Users\Huseyin\AppData\Local\Temporary Projects\Cep Numara Alma Sahibinden\obj\Debug\Cep Numara Alma Sahibinden.pdb
+C:\Users\Huseyin\Documents\Visual Studio 2008\Projects\Cep Numara Alma Sahibinden\Cep Numara Alma Sahibinden\obj\Debug\Cep Numara Alma Sahibinden.exe
+C:\Users\Huseyin\Documents\Visual Studio 2008\Projects\Cep Numara Alma Sahibinden\Cep Numara Alma Sahibinden\obj\Debug\Cep Numara Alma Sahibinden.pdb
+C:\Users\Huseyin\Documents\Visual Studio 2008\Projects\Cep Numara Alma Sahibinden\Cep Numara Alma Sahibinden\bin\Debug\Cep Numara Alma Sahibinden.exe
+C:\Users\Huseyin\Documents\Visual Studio 2008\Projects\Cep Numara Alma Sahibinden\Cep Numara Alma Sahibinden\bin\Debug\Cep Numara Alma Sahibinden.pdb
+C:\Users\Huseyin\Documents\Visual Studio 2008\Projects\Cep Numara Alma Sahibinden\Cep Numara Alma Sahibinden\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Huseyin\Documents\Visual Studio 2008\Projects\Cep Numara Alma Sahibinden\Cep Numara Alma Sahibinden\obj\Debug\Cep_Numara_Alma_Sahibinden.Form1.resources
+C:\Users\Huseyin\Documents\Visual Studio 2008\Projects\Cep Numara Alma Sahibinden\Cep Numara Alma Sahibinden\obj\Debug\Cep_Numara_Alma_Sahibinden.Properties.Resources.resources
+C:\Users\Huseyin\Documents\Visual Studio 2008\Projects\Cep Numara Alma Sahibinden\Cep Numara Alma Sahibinden\obj\Debug\Cep Numara Alma Sahibinden.csproj.GenerateResource.Cache
+C:\Users\Huseyin\Documents\Visual Studio 2008\Projects\Cep Numara Alma Sahibinden\Cep Numara Alma Sahibinden\bin\Debug\Cep Numara Alma Sahibinden.exe.manifest
+C:\Users\Huseyin\Documents\Visual Studio 2008\Projects\Cep Numara Alma Sahibinden\Cep Numara Alma Sahibinden\bin\Debug\Cep Numara Alma Sahibinden.application
+C:\Users\Huseyin\Documents\Visual Studio 2008\Projects\Cep Numara Alma Sahibinden\Cep Numara Alma Sahibinden\obj\Debug\Cep Numara Alma Sahibinden.TrustInfo.xml
+C:\Users\Huseyin\Documents\Visual Studio 2008\Projects\Cep Numara Alma Sahibinden\Cep Numara Alma Sahibinden\obj\Debug\Cep Numara Alma Sahibinden.exe.manifest
+C:\Users\Huseyin\Documents\Visual Studio 2008\Projects\Cep Numara Alma Sahibinden\Cep Numara Alma Sahibinden\obj\Debug\Cep Numara Alma Sahibinden.application
